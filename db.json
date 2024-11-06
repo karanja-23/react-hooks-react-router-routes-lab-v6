@@ -1,6 +1,7 @@
 {
     "movies": [
-        {   "id": 1,
+        {   
+            "id": 1,
             "title": "Doctor Strange",
             "time": 115,
             "genres": ["Action", "Adventure", "Fantasy"]
